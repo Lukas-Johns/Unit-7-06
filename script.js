@@ -9,7 +9,7 @@ function myInput () {
     } else if (age < guess) {
       alert('Nope, your guess was too high')
     } else {
-      alert('Hey, you got it!')
+      alert('Hey, you did it!')
     }
   }
 }
